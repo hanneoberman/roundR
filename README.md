@@ -16,7 +16,7 @@ nearest *even* integer.
 You can install the development version of roundR like so:
 
 ``` r
-devtools::install_github("hanneoberman/roundR")
+# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
 
 ## Example
