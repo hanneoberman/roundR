@@ -8,6 +8,14 @@
 \description{
 By default, R rounds numeric values to even integers, following the IEC 60559 standard. This package offers alternative functionality to round to the closest integer.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/hanneoberman/roundR}
+  \item Report bugs at \url{https://github.com/hanneoberman/roundR/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Hanne Oberman \email{h.i.oberman@uu.nl}
 
